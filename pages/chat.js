@@ -224,8 +224,9 @@ function Header() {
                     justifyContent: 'space-between'
                 }} >
 
-                <Text variant='heading5' styleSheet={{ fontFamily: 'Play', }}>
+                <Text variant='heading5' styleSheet={{ fontFamily: 'Play', Color: appConfig.theme.colors.neutrals["000"] }}>
                     Chat
+                 
                 </Text>
                 <Button
                     buttonColors={{
