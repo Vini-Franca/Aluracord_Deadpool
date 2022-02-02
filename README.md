@@ -1,4 +1,4 @@
-# aluracord-starwars
+# aluracord-deadpool
 Projeto de estudo criado na imersão React da Alura. Treinamento dado por Mario Souto e Paulo Silveira.
 
 Aprendemos a usar: 
@@ -35,7 +35,7 @@ Ao passar o mouse sobre a imagem, é destacado a foto, o nome e o link para o Gi
 
 ![tela 6](https://user-images.githubusercontent.com/88031968/151682269-648b321e-a1ce-44d3-ba19-7416a88f92d6.jpg)
 
-:arrow_forward: link para a página: https://aluracord-starwars.vercel.app/
+:arrow_forward: link para a página: https://aluracord-deadpool.vercel.app/
 
 :wink: Então isso é pessoal.
 
