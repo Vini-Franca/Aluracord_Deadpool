@@ -1,5 +1,5 @@
 # aluracord-deadpool
-Projeto de estudo criado na imersão React  da Alura. Treinamento dado por Mario Souto e Paulo Silveira.
+Projeto de estudo criado na imersão React  da Alura. Treinamento dado por @mariosouto e @peas
 
 Aprendemos a usar: 
 
