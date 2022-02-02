@@ -46,6 +46,7 @@ export default function PaginaInicial() {
                     backgroundColor: appConfig.theme.colors.primary[999],
                     backgroundImage: 'url(https://wallpaperaccess.com/full/21788.png)',
                     backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
+                    
                 }}
             >
                 <Box
@@ -59,12 +60,12 @@ export default function PaginaInicial() {
                         },
                         width: '100%', maxWidth: '700px',
                         borderRadius: '5px', padding: '32px', margin: '16px',
-                        boxShadow: '0 2px 10px 0 rgb(0 0 0 / 20%)',
+                        boxShadow: '10px 20px 30px 2px rgb(0 0 0 / 100%)',
                         backgroundColor: appConfig.theme.colors.neutrals[500],
                         opacity: 0.8,
-                        border: '1px solid',
+                        border: '2px solid',
                         borderColor: appConfig.theme.colors.primary[999],
-
+                        
                     }}
                 >
                     {/* Formulário */}
@@ -123,6 +124,7 @@ export default function PaginaInicial() {
                                 styleSheet={{
                                     marginBottom: '10px', color: appConfig.theme.colors.primary[700],
                                     fontFamily: 'Play',
+                                    
                                 }}
                             >
                                 Digite mais que 2 caracteres
