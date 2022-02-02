@@ -15,7 +15,7 @@ Tela de abertura do chat:
 
 ![tela1](https://user-images.githubusercontent.com/96840268/152180896-56b14526-5592-4336-a5b4-7a3ef61ee3c3.jpg)
 
-O sistema conta com algumas validações básicas:
+O sistema conta com uma validação básica:
 
 ![tela2](https://user-images.githubusercontent.com/96840268/152180099-dd35a965-a9ae-4749-94e8-a3813ae0eac4.jpg)
 
