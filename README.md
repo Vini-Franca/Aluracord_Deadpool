@@ -1,11 +1,11 @@
 # aluracord-deadpool
-Projeto de estudo criado na imersão React  da <a href="https://github.com/alura-challenges/aluracord-matrix/">Alura.</a> Treinamento dado por <a href="https://github.com/omariosouto">@mariosouto</a> e <a href="https://github.com/peas">@peas</a>
+Projeto de estudo criado na imersão React  da <a href="https://github.com/alura-challenges/aluracord-matrix/">Alura.</a> Treinamento ministrado por <a href="https://github.com/omariosouto">@mariosouto</a> e <a href="https://github.com/peas">@peas</a>
 
 Aprendemos a usar: 
 
 Nextjs 
 
-React (useState, useEffect)
+React (useState, useEffect) 
 
 Supabase (como back-end)
 
